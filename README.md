@@ -45,7 +45,7 @@
 #
 
 ### 4. Menyisipkan gambar
-![gambar4.0](img/contoh_data_sisipIMG.JPG)
+![gambar4.0](img/contohIMG.JPG)
 ```html
 <!-- menyisipkan gambar pada web, harus sesuai dengan nama format pada folder -->
     <img src="img/LOGO_UPB_NEW-1.png" alt="Logo Universitas" width="200px">
