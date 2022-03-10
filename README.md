@@ -63,3 +63,10 @@
 </nav>
 ```
 ![gambar5](img/menambahkan_hyperlink.JPG)
+#
+
+## Jawaban soal Pertanyaan..!!
+1. Iya, karena kita salah memasuki kode inputannya sehingga membuat tag tersebut tidak dapat bekerja.
+2. tag ```<p>``` digunakan untuk membuat paragraf, sedangkan tag ```<br>``` digunakan untuk membuat blocks paragraf transparan.
+3. perbedaan atribut ```"title"``` dan ```"alt"``` pada tag ```<img>``` adalah, ```"title"``` berfungsi untuk memunculkan nama pada sebuah gambar ketika cursor diarahan ke gambar tersebut, sedangkan ``"alt"`` berfungsi untuk memunculkan nama pada sebuah gambar ketika gambar sedang tidak bekerja atau *error*.
+4. menurut saya gunakan atribut ``"width"`` saja, karena atribut ``"width"`` digunakan untuk mengatur lebar pada ukuran gambar, secara tidak langsung ukuran itu mencakup tinggi dan lebar pada samping, sedangkan ``"height"`` hanya digunakan untuk mengatur ukuran tinggi pada gambar.
